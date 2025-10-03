@@ -1,8 +1,7 @@
 /*
  * LD Adjuster - Adjust LD Matrix with GRM and Covariates
- * 
- * Author: Jicai Jiang
- * Version: 1.1.1
+ * Copyright (c) 2025 Jicai Jiang
+ * SPDX-License-Identifier: MIT
  * 
  * This program adjusts linkage disequilibrium matrix using genomic 
  * relationship matrix and optional covariates to account for population 
