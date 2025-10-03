@@ -21,7 +21,7 @@ icpx -Wall -O3 -qmkl -qopenmp -std=c++11 -DEIGEN_USE_MKL_ALL -I/path/to/eigen-3.
 ```
 
 ## Binary Executable
-https://github.com/JJWang259/FineMapping-RelatedIndividuals/releases/latest
+https://github.com/jiang18/ld_adjuster/releases/latest
 
 ## Usage
 
@@ -222,6 +222,3 @@ For questions or issues:
   - **SNPs**: Replaced with SNP mean before standardization
   - **Covariates/Error Weights**: Individuals with any missing values are excluded from analysis
 
-## License
-
-This implementation is provided for academic and research use.
